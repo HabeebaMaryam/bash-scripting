@@ -1,0 +1,23 @@
+# What is Kernel ?
+   core of a computer’s operating system
+
+Linux kernel developed by -------- Linus Torvalds 
+Complete Linux system = Kernel + GNU system utilities and libraries + other management scripts + installation scripts.
+
+#Shell
+A shell is a special user program that provides an interface for the user to use operating system services. 
+user inpuy ----> CLI ----> shell convrts it into os understandable format -----> kernel
+
+#What is a terminal?
+A program which is responsible for providing an interface to a user so that he/she can access the shell. 
+
+## sheell scripts 
+file containing number of shell commands , which we want to execute them once . it can be done by giving this file as input to shel , it executes all 
+these commands and providese the output .
+--> by integrating shell commands in scripts it is easy to run number of commands as a batch . write once and execute any time.
+--> To avoid repetitive work and automation
+--> System admins use shell scripting for routine backups.
+--> System monitoring
+--> Adding new functionality to the shell etc.
+
+#Advantages :
